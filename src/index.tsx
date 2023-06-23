@@ -43,7 +43,7 @@ const items = [
   },
 
   {
-    title: 'Dribbble',
+    title: '文艳',
     subtitle: '@virtuonic | shots of dezigns ',
     type: CHANNEL_TYPES.DRIBBLE,
     link: 'https://dribbble.com/virtuonic', // Dribbble profile link
